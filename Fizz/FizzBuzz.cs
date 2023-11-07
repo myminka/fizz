@@ -5,6 +5,7 @@
         public List<string> GetFizzBuzzSequence(int from, int till)
         {
             var list = new List<string>();
+
             for (int i = from; i <= till; i++)
             {
                 var result = string.Empty;
