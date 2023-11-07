@@ -17,9 +17,7 @@
                     result += "Buzz";
 
                 if (string.IsNullOrEmpty(result))
-                {
                     result = i.ToString();
-                }
 
                 list.Add(result);
             }
