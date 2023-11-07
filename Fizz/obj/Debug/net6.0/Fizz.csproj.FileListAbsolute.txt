@@ -1,0 +1,17 @@
+C:\Users\Max\Source\Repos\Fizz\Fizz\bin\Debug\net6.0\Fizz.exe
+C:\Users\Max\Source\Repos\Fizz\Fizz\bin\Debug\net6.0\Fizz.deps.json
+C:\Users\Max\Source\Repos\Fizz\Fizz\bin\Debug\net6.0\Fizz.runtimeconfig.json
+C:\Users\Max\Source\Repos\Fizz\Fizz\bin\Debug\net6.0\Fizz.dll
+C:\Users\Max\Source\Repos\Fizz\Fizz\bin\Debug\net6.0\Fizz.pdb
+C:\Users\Max\Source\Repos\Fizz\Fizz\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.csproj.AssemblyReference.cache
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.AssemblyInfoInputs.cache
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.AssemblyInfo.cs
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.csproj.CoreCompileInputs.cache
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.csproj.CopyComplete
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.dll
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\refint\Fizz.dll
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.pdb
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\Fizz.genruntimeconfig.cache
+C:\Users\Max\Source\Repos\Fizz\Fizz\obj\Debug\net6.0\ref\Fizz.dll
